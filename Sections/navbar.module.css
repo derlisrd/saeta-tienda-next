@@ -1,0 +1,9 @@
+.link_menu {
+    text-decoration: none;
+}
+.link_menu a{
+    text-decoration: none;
+    font-variant: small-caps;
+    font-size: 2rem;
+    color:#585858;
+}
